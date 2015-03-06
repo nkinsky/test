@@ -2,6 +2,8 @@
 % Script to test arena alignments using linear models to scale the data
 % appropriately.
 
+% test edit
+
 clear all
 close all
 
